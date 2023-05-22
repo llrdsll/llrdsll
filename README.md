@@ -135,8 +135,7 @@
     
     
     
-    
-    ![Snake animation](https://github.com/rafaballerini/llrdsll/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/llrdsll/llrdsll/blob/output/github-contribution-grid-snake.svg)
     
     
     
