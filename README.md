@@ -136,7 +136,7 @@
     
     
     
-    
+    ![Snake animation](https://github.com/rafaballerini/llrdsll/blob/output/github-contribution-grid-snake.svg)
     
     
     
