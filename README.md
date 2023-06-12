@@ -2,9 +2,7 @@
 
 
 
-- 🔭 Atualmente estou trabalhando em casa mesmo.
-- 🌱 Atualmente estou aprendendo em casa mesmo.
-- 👯 Eu estou procurando colaborar... brincadeira! Colaboro com quem estiver precisando 🫡
+- 🌱 Olha, sou low no git mas estou aqui para ajudar 🫡
 
 
 
