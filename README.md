@@ -1,4 +1,4 @@
-### Opa!✨ Sou low mas estou aqui pra ajudar 🫡
+### Opa!✨ Sou low pro, mas tou aqui pra ajudar 🫡
 
 
 
